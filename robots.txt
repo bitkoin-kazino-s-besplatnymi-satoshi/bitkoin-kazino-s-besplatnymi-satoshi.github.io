@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bitkoin-kazino-s-besplatnymi-satoshi.github.io
+Sitemap: https://bitkoin-kazino-s-besplatnymi-satoshi.github.io/sitemap.xml
